@@ -1,23 +1,40 @@
 # créer un projet
 
-- NomProjet > Backend : 
+- NomProjet > Backend :
+
 ```bash
     npm init -y
     npm i (install) node express
     npm i cors
 ```
+
 - NomProjet :
+
 ```bash
     npx create-react-app frontend
 ```
 
-# Lancer les serveurs : 
+# Lancer les serveurs :
 
-- frontend : 
+- frontend :
+
 ```bash
 npm start
 ```
-- backend : 
-```bash
 
+- backend :
+
+```bash
+node server.js
+puis
+npm start
 ```
+
+# sitographie pour diagrammes :
+
+- Mermaid
+- MindMeister
+- https://app.diagrams.net/
+- Moqups
+- Creately
+- Regarder pour diagrammes "CONOPS"
